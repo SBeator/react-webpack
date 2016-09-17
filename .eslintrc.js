@@ -11,6 +11,7 @@ module.exports = {
             {
                 "vars": "all",
                 "args": "none"
-            }]
+            }],
+        "react/jsx-filename-extension": 0
     }
 };
